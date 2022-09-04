@@ -35,7 +35,7 @@ def commit_to_git(repo_path, file_to_commit, commit_message, author_date):
 if __name__ == "__main__":
     date_file_path = 'date'
     repo_path = '.'
-    file_to_commit = 'smile2'
+    file_to_commit = 'smile'
     commit_message = 'army days'
     author_date = None
 
